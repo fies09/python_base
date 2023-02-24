@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04_数据库操作/py_mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07_django/learn_django" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/08_flask/flask_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public_code" vcs="Git" />
+  </component>
+</project>
